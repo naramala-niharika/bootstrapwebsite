@@ -34,6 +34,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+HOME PAGE:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -97,6 +98,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
+GALLERY PAGE:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -156,6 +158,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
+ABOUT US PAGE:
 ```html
 <!DOCTYPE html>
 <html lang="en">
